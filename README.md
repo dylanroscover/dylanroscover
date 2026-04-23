@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylanroscover
-- 👀 I’m interested in Immersive Creative Tech Experiences.
-- 🌱 I’m currently learning Polish.
-- 💞️ I’m looking to collaborate on TouchDesigner components for the community.
+- 👀 I like doing things the hard way.
+- 🌱 I’m currently learning Polish. See above.
+- 💞️ I’m always building. Never not working.
 - 📫 rosco@tec.design
