@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dylanroscover
-- 👀 I like doing things the hard way.
-- 🌱 I’m currently learning Polish. See above.
-- 💞️ I’m always building. Never not working.
-- 📫 rosco@tec.design
+- 👋 hey, i’m @dylanroscover
+- 👀 i have an eye for detail and a penchant for design
+- 🌱 humbled by my fellow humans everyday
+- 💞️ always building. never not working.
+- 📫 rosco@tridant.io
